@@ -10,7 +10,6 @@ import java.lang.annotation.Target;
 
 public @interface Before {
 	public abstract String value() default "";
-
 	public abstract long timeout() default 0L;
 
 }
