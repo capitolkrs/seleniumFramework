@@ -8,6 +8,7 @@ public class SLFMConstants {
 	public static final Object EXECUTE = "execute";
 	public static final Object ENVIRONMENT = "environment";
 	public static final String COMMON_DATA = "common data";
+	
 	public static final String ENVIRONMENT_URL = "environment url";
 
 }
